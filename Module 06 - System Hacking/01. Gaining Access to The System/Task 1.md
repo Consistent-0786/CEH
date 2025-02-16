@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ac25fe39-ed09-4493-8036-c3980ff8d256)### TASK 01 - Perform Active Online Attack to Crack the System’s Password using Responder
+### TASK 01 - Perform Active Online Attack to Crack the System’s Password using Responder
 LLMNR (link local multicast name resolution) and NBT-NS (netbios namer service) are used to performe name resolution on the local link.
 
 Responder is LLMNR, NBT-NS, MDNS poisoner. By default the tool only responds to SMB.

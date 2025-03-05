@@ -1,6 +1,6 @@
-# CEH-v13
-CEH V.13 Guide
+# CEH
+CEH Guide
 
-https://ceh-practical.cavementech.com/
-https://github.com/kuronetwork/CEH-Practical-LAB-Practice-Recommendations
+01: https://ceh-practical.cavementech.com/
+02: https://github.com/kuronetwork/CEH-Practical-LAB-Practice-Recommendations
 
